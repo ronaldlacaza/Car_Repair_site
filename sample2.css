@@ -1,0 +1,290 @@
+.container{
+    width: 980px;
+    height: 700px;
+    margin: 0px auto;
+}
+    .header{
+        width: auto;
+        height: 110px;
+        background-color: rgb(231, 231, 231);
+    }
+        .top{
+            width: auto;
+            height: 110px;
+            margin: 0px 150px;
+        }
+            .car{
+                font-size: 25px;
+                margin-bottom: 0px;
+                width: 230px;
+                color: rgb(26, 61, 15);
+            }
+            .auto{
+                font-size: 13px;
+                margin-top: 0px;
+                width: 240px;
+                display: inline-block;
+            }
+            .search{
+                display: inline-block;
+                margin-left: 210px;
+            }
+                .sear{
+                    width: 180px;
+                    height: 12px;
+                }
+            .menu{
+                width: auto;
+                height: 24px;
+                background-color: rgba(53, 94, 40, 0.781);
+                padding-top: 10px;
+                font-size: 12px;
+            }
+                .home{
+                    display: inline;
+                    margin-right: 45px;
+                    color: white;
+                }
+                .menus{
+                    display: inline;
+                    margin-right: 45px;
+                    color: white;
+                    
+                }
+                .book{
+                    display: inline;
+                    color: rgb(204, 140, 2);
+                }
+    .content{
+        width: 980px;
+        height: 930px;
+        background-color: rgba(36, 63, 29, 0.829);
+    }
+        .content1{
+            width: 680px;
+            height: 150px;
+            background-color: white;
+            display: inline-block;
+            margin-left: 150px;
+            margin: 5px 0px 0px 150px;
+        }
+            .credit{
+                width: 40px;
+                height: 30px;
+                display: inline-block;
+                vertical-align: top;
+                margin: 25px 0px 0px 10px;
+            }
+            .sub_content1{
+                width: 165px;
+                height: 200px;
+                display: inline-block;
+                vertical-align: top;
+            }
+                .afford{
+                    font-size: 15px;
+                    margin-top: 25px;
+                }
+                .web{
+                    font-size: 13px;
+                    line-height: 15px;
+                    margin-top: 10px;
+                }
+                .free{
+                    color: black;
+                }
+            .sub_content2{
+                width: 165px;
+                height: 200px;
+                display: inline-block;
+                vertical-align: top;
+            }
+            .sub_content3{
+                width: 165px;
+                height: 200px;
+                display: inline-block;
+                vertical-align: top;
+            }
+        .content2{
+            width: 680px;
+            height: 300px;
+            margin: 5px 0px 0px 150px;
+            background-color: white;
+        }
+            .person{
+                width: 330px;
+                height: 300px;
+                display: inline-block;
+            }
+            .sub_content{
+                width: 345px;
+                height: 350px;
+                display: inline-block;
+                vertical-align: top;
+                margin-bottom: 0px;
+            }
+                .lorem{
+                    font-size: 45px;
+                    margin-bottom: 0px;
+                }
+                .dolor{
+                    font-size: 25px;
+                    margin: 0px 0px 0px 120px;
+                }
+        .content3{
+            width: 980px;
+            height: 240px;
+            background-color: rgb(231, 231, 231);
+            margin: 5px 0px 0px 0px;
+        }
+            .blank{
+                width: 260px;
+                display: inline-block;
+                margin-left: 150px;
+                border-bottom: 3px solid rgb(209, 170, 40);
+            }
+            .feature{
+                font-size: 20px;
+                display: inline-block;
+                margin-top: 8px;
+            }
+            .blan{
+                width: 260px;
+                display: inline-block;
+                border-bottom: 3px solid rgb(209, 170, 40);
+            }
+            .nav1{
+                width: 80px;
+                height: 170px;
+                display: inline-block;
+                vertical-align: top;
+                margin-left: 150px;
+            }
+                .ring{
+                    width: 60px;
+                    height: 55px;
+                    display: block;
+                    margin: 0px 0px 40px 20px;
+                }
+                .engine{
+                    font-size: 13px;
+                    margin-bottom: 10px;
+                }
+                .nulla{
+                    font-size: 10px;
+                    margin-bottom: 30px;
+                }
+            .nav2{
+                width: 250px;
+                height: 170px;
+                display: inline-block;
+                vertical-align: top;
+            }
+            .nav3{
+                width: 80px;
+                height: 170px;
+                display: inline-block;
+                vertical-align: top;
+            }
+            .nav4{
+                width: 250px;
+                height: 180px;
+                display: inline-block;
+            }
+        .content4{
+            width: 675px;
+            height: 200px;
+            margin-left: 150px;
+            background-color: rgb(85, 84, 84);
+            margin: 5px 0px 0px 150px;
+        }
+            .foot1{
+                width: 165px;
+                height: 200px;
+                display: inline-block;
+            }
+                .contact{
+                    font-size: 13px;
+                    margin: 20px 15px;
+                    color: white;
+                }
+                .address{
+                    font-size: 11px;
+                    margin: 10px 15px;
+                    border-bottom: 1px solid white;
+                }
+                .info{
+                    color: rgb(207, 154, 8);
+                    font-size: 11px;
+                }
+            .foot2{
+                width: 165px;
+                height: 200px;
+                display: inline-block;
+                vertical-align: top;
+            }
+                .fuscue{
+                    font-size: 11px;
+                    margin: 0px 15px;
+                }
+                .ago{
+                    color: rgb(207, 154, 8);
+                    font-size: 11px;
+                    margin: 10px 15px;
+                    border-bottom: 1px solid white;
+                }
+            .foot3{
+                width: 165px;
+                height: 200px;
+                display: inline-block;
+                vertical-align: top;
+            }
+                .contacts{
+                    color: rgb(207, 154, 8);
+                    font-size: 12px;
+                    margin: 15px 20px;
+                    border-bottom: 1px solid white;
+                }
+                .contac{
+                    color: rgb(207, 154, 8);
+                    font-size: 12px;
+                    margin: 15px 20px;
+                }
+            .foot4{
+                width: 165px;
+                height: 200px;
+                display: inline-block;
+                vertical-align: top;
+            }
+                .socials{
+                    width: 25px;
+                    height: 30px;
+                    margin-left: 15px;
+                }
+                .social{
+                    width: 25px;
+                    height: 30px;
+                }
+        .footer{
+            width: 675px;
+            height: 20px;
+            margin: 3px 0px 0px 150px;
+            color: white;
+        }
+            .copy{
+                font-size: 8px;
+                display: inline-block;
+                margin-right: 12px;
+            }
+            .navig{
+                    display: inline;
+            }
+                .navi{
+                    font-size: 10px;
+                    display: inline;
+                    margin-right: 16px;
+                }
+                .navis{
+                    font-size: 10px;
+                    display: inline;
+                }
